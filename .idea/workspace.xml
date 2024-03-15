@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e8552e-5d0f-4b17-9d04-4608da90b051" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/0005_productdetails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clothing/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/clothing/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="35e8552e-5d0f-4b17-9d04-4608da90b051" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -100,6 +96,7 @@
       <workItem from="1710426848540" duration="648000" />
       <workItem from="1710473838611" duration="615000" />
       <workItem from="1710476186821" duration="1392000" />
+      <workItem from="1710477745229" duration="301000" />
     </task>
     <servers />
   </component>
