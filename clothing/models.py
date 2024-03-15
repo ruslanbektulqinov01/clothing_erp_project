@@ -141,3 +141,7 @@ class Returns(models.Model):
     quantity = models.IntegerField()
     return_reason = models.TextField()
     return_date = models.DateField()
+
+
+class ProductDetails(models.Model):
+    product = models.ForeignKey('Product', on_delete=models.CASCADE)

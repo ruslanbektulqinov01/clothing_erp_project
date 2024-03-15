@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35e8552e-5d0f-4b17-9d04-4608da90b051" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/clothing_erp_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/0002_alter_product_minimum_stock_level_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/0003_alter_product_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/0004_remove_product_sku_alter_order_order_status_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/routers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing_erp_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing_erp_project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing_erp_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing_erp_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clothing_erp_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clothing/migrations/0005_productdetails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clothing/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/clothing/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +95,11 @@
       <workItem from="1710246696720" duration="4186000" />
       <workItem from="1710300367866" duration="883000" />
       <workItem from="1710320777825" duration="4147000" />
+      <workItem from="1710408768278" duration="1725000" />
+      <workItem from="1710415940140" duration="1255000" />
+      <workItem from="1710426848540" duration="648000" />
+      <workItem from="1710473838611" duration="615000" />
+      <workItem from="1710476186821" duration="1392000" />
     </task>
     <servers />
   </component>
